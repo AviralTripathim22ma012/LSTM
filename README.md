@@ -27,7 +27,7 @@ which offers a respectable amount of iterations.
 
 Since a larger test set comprises more different instances that the 
 model has not encountered during training, it will typically give a more 
-accurate approximation of the model's generalisation performance.
+accurate approximation of the model's generalisation performance. <br>
 If the test set is smaller and might not be sufficiently representative to 
 accurately predict the model's performance on unobserved data when 
 the train-test split is 70:30. Overfitting is a condition when a model 
