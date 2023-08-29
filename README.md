@@ -20,7 +20,8 @@ between model convergence and memory consumption.
 Num_epochs: In order to allow the model to converge to a decent 
 solution without overfitting the training data, I chose a value of 45, 
 which offers a respectable amount of iterations. 
-Results and Observations:
+
+## Results and Observations:
  Test loss with 80:20 train-test split= 0.0057
  Test loss with 70:30 train-test split= 0.0054
 
